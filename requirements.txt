@@ -8,3 +8,4 @@ numpy
 imblearn
 ipykernel
 xgboost
+spacy 
