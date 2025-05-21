@@ -11,3 +11,5 @@ xgboost
 spacy 
 gensim
 nltk
+torch
+transformers
