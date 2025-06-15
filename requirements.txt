@@ -13,3 +13,4 @@ gensim
 nltk
 torch
 transformers
+ipywidgets
