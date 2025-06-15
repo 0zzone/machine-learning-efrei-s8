@@ -14,3 +14,4 @@ nltk
 torch
 transformers
 ipywidgets
+wordcloud
